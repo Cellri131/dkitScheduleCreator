@@ -79,6 +79,9 @@ Petit outil en ligne de commande qui construit un planning hebdomadaire
 personnalisé à partir du site des horaires du DKIT
 (https://timetables.dkit.ie/studentset.php), sans passer par l'interface web.
 
+## Pourqoi ?
+J'en ai eu marre de devoir chercher dans les différents planning pour avoir le miens
+
 ## Comment ça marche
 
 Le site publie la liste complète des "Student Group(s) to view" dans un
