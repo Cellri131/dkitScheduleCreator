@@ -1,0 +1,20 @@
+Monday
+- Universal Design Project            | Room P1119 | 09:00 - 10:45 | Level 8:BSc (Hons) in Computing in Games Development Year 3 - Sem 1
+- Static Web Development              | Room P1159 | 11:00 - 12:45 | Level 8:BSc (Hons) in Computing in Games Development Year 1 Group 1a - Sem 1
+- 3D Game Engine Development          | Room P1160 | 14:00 - 15:45 | Level 8:BSc (Hons) in Computing in Games Development Year 3 - Sem 1
+
+Tuesday
+- 3D Game Engine Development          | Room P1158 | 11:00 - 12:45 | Level 8:BSc (Hons) in Computing in Games Development Year 3 - Sem 1
+
+Wednesday
+- Universal Design Project            | Room P1158 | 09:00 - 09:45 | Level 8:BSc (Hons) in Computing in Games Development Year 3 - Sem 1
+- 2D Games Engine Development         | Room P1105 | 11:00 - 12:45 | Level 8:BSc (Hons) in Computing in Games Development Year 2 Group 2a- Sem 1
+- 3D Game Engine Development          | Room P1119 | 13:00 - 13:45 | Level 8:BSc (Hons) in Computing in Games Development Year 3 - Sem 1
+- 2D Games Engine Development         | Room P1105 | 14:00 - 15:45 | Level 8:BSc (Hons) in Computing in Games Development Year 2 Group 2a- Sem 1
+
+Thursday
+- Static Web Development              | Room P1104 | 13:00 - 13:45 | Level 8:BSc (Hons) in Computing in Games Development Year 1 Group 1a - Sem 1
+
+Friday
+- Universal Design Project            | Room P1158 | 09:00 - 10:45 | Level 8:BSc (Hons) in Computing in Games Development Year 3 - Sem 1
+- Static Web Development              | Room P1158 | 11:00 - 11:45 | Level 8:BSc (Hons) in Computing in Games Development Year 1 Group 1a - Sem 1
